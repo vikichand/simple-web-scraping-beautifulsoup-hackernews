@@ -1,17 +1,16 @@
 <div align="center">
     <p>Learn · Create · Master</p>
     <h1>Simple Hacker News web scraper 👀</h1>
+    <p>This is a simple project I did for fun in 2020, putting it on GitHub to have some pass time, over the weekend work done on it.</p>
     <img src='https://forthebadge.com/images/badges/made-with-python.svg' />
-    <!-- <img src='https://forthebadge.com/images/badges/uses-HTML.svg' /> -->
+    <!-- <img src='https://forthebadge.com/images/badges/uses-JS.svg' /> -->
 </div>
 
 <div align="center">
-    <img src="./assests/Hacker-News-+-BeautifulSoup.jpg"
+    <img src="./assests/Hacker-News-+-BeautifulSoup.jpg" 
         alt="BeautifulSoup"
         style="" />
 </div>
-
-This is a simple project I did in 2020, putting it on GitHub to have some pass time, over the weekend work done on it.
 
 ## ⚙ **_Install_**
 
