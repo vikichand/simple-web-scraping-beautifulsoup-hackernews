@@ -1,18 +1,17 @@
 <div align="center">
     <p>Learn · Create · Master</p>
-    <h1>Simple Hacker News Web Scraping</h1>
+    <h1>Simple Hacker News web scraping 👀</h1>
     <img src='https://forthebadge.com/images/badges/made-with-python.svg' />
     <!-- <img src='https://forthebadge.com/images/badges/uses-HTML.svg' /> -->
 </div>
 
-<div>
-    <img src="./assests/Hacker%20News.jpg"
+<div align="center">
+    <img src="./assests/Hacker-News-+-BeautifulSoup.jpg"
         alt="BeautifulSoup"
-        style="float: left;width: auto; height: 300px;" />
-    <img src="./assests/BeautifulSoup.png"
-        alt="BeautifulSoup"
-        style="width: auto; height: 300px" />
+        style="" />
 </div>
+
+This is a simple project I did in 2020, putting it on GitHub to have some pass time, over the weekend work done on it.
 
 ## ⚙ **_Install_**
 
@@ -46,7 +45,7 @@ pip install requests
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-| [<img src="https://avatars1.githubusercontent.com/u/51986613?v=4" width="100px;"/><br /><sub><b>Vikash Chand</b></sub>](https://vikash.ch/)<br />[📖](https://github.com/vikichand//commits?author=vikichand "Documentation") [💻](https://github.com/vikichand/react-js-covid-19/commits?author=vikichand "Code") [🎨](#design-vikichnad "Design") [💡](#example-vikichnad "Examples") |
+| [<img src="https://avatars1.githubusercontent.com/u/51986613?v=4" width="100px;"/><br /><sub><b>Vikash Chand</b></sub>](https://vikash.ch/)<br />[📖](https://github.com/vikichand//commits?author=vikichand "Documentation") [💻](https://github.com/vikichand/simple-web-scraping-beautifulsoup-hackernews/commits?author=vikichand "Code") [🎨](#design-vikichnad "Design") [💡](#example-vikichnad "Examples") |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
