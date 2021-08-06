@@ -1,7 +1,7 @@
 <div align="center">
     <p>Learn · Create · Master</p>
     <h1>Simple Hacker News web scraper 👀</h1>
-    <p>This is a simple project I did for fun in 2020, putting it on GitHub to have some pass time, over the weekend work done on it.</p>
+    <p>This is a simple project I initially did for fun in 2020. Putting it up on GitHub to have some pass time, over the weekend collaborative work done on it. What was this project initially intended to do? Scrape data from <a href="https://news.ycombinator.com/">Hacker News</a> (a popular social news website focusing on computer science and entrepreneurship) using BeautifulSoup.</p>
     <img src='https://forthebadge.com/images/badges/made-with-python.svg' />
     <!-- <img src='https://forthebadge.com/images/badges/uses-JS.svg' /> -->
 </div>
@@ -22,13 +22,13 @@ pip install beautifulsoup4
 pip install requests
 ```
 
-## 📃 **_TODO_**:
+## 📃 **_Todo_**:
 
 - [x] _Web Scraping_
-  - [x] _Get Latest news_
+  - [x] _Get Latest news - use top 2 pages_
   - [x] _Get News with votes > 100_
-  - [ ] _Store data (JSON or Database) - use free option_
-  - [ ] _Setup cron to get data - use GitHub Actions_
+- [ ] _Store data (JSON or Database) - use a free but reliable option_
+- [ ] _Setup cron to get data - use GitHub Actions_
 - [ ] _API_
 - [ ] _React App_
 
