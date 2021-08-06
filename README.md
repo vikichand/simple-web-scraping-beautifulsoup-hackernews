@@ -1,6 +1,6 @@
 <div align="center">
     <p>Learn · Create · Master</p>
-    <h1>Simple Hacker News web scraping 👀</h1>
+    <h1>Simple Hacker News web scraper 👀</h1>
     <img src='https://forthebadge.com/images/badges/made-with-python.svg' />
     <!-- <img src='https://forthebadge.com/images/badges/uses-HTML.svg' /> -->
 </div>
