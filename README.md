@@ -8,10 +8,10 @@
 <div>
     <img src="./assests/Hacker%20News.jpg"
         alt="BeautifulSoup"
-        style="float: left; height: 300px;" />
+        style="float: left;width: auto; height: 300px;" />
     <img src="./assests/BeautifulSoup.png"
         alt="BeautifulSoup"
-        style="height: 300px" />
+        style="width: auto; height: 300px" />
 </div>
 
 ## ⚙ **_Install_**
@@ -26,13 +26,13 @@ pip install requests
 
 ## 📃 **_TODO_**:
 
-- [x] Web Scraping
-  - [x] Get Latest news
-  - [x] Get News with votes > 100
-  - [ ] Store data (JSON or Database) _- use free option_
-  - [ ] Setup cron to get data - _use GitHub Actions_
-- [ ] API
-- [ ] React App
+- [x] _Web Scraping_
+  - [x] _Get Latest news_
+  - [x] _Get News with votes > 100_
+  - [ ] _Store data (JSON or Database) - use free option_
+  - [ ] _Setup cron to get data - use GitHub Actions_
+- [ ] _API_
+- [ ] _React App_
 
 ## 🐱‍👤 **_Contribute_**
 
@@ -41,3 +41,12 @@ pip install requests
 3. **Commit** your changes: `git commit -am 'Add some feature'`
 4. **Push** to the branch: `git push origin my-new-feature`
 5. **Submit** a pull request
+
+## 🧠 **_Contributors_**
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+| [<img src="https://avatars1.githubusercontent.com/u/51986613?v=4" width="100px;"/><br /><sub><b>Vikash Chand</b></sub>](https://vikash.ch/)<br />[📖](https://github.com/vikichand//commits?author=vikichand "Documentation") [💻](https://github.com/vikichand/react-js-covid-19/commits?author=vikichand "Code") [🎨](#design-vikichnad "Design") [💡](#example-vikichnad "Examples") |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
